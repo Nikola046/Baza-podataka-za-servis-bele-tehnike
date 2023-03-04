@@ -5,5 +5,4 @@ Model objekti veze
 IDF1X
 ![IDF1X](https://user-images.githubusercontent.com/88964904/222928262-3069177b-377e-471c-a099-1fedd20c80dd.png)
 
-Relaciona šema
 ![Relaciona šema](https://user-images.githubusercontent.com/88964904/222928277-f6b09f6f-b8e0-4200-8ba9-626243b0a9a0.png)
