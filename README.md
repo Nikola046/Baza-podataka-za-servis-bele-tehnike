@@ -1,4 +1,7 @@
 # Baza-podataka-za-servis-bele-tehnike
+
+Projekat u kojem je modelovana i kreirana baza podataka za servis bele tehnike
+
 Model objekti veze
 ![MOV](https://user-images.githubusercontent.com/88964904/222928247-fa7294c0-520e-47e6-82cf-18bb56621e51.png)
 
